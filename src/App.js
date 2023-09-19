@@ -89,6 +89,10 @@ function App() {
           </ul>
         </div>
       </section>
+<div class="bg-blue-100 rounded-md p-4 shadow-md">
+    <h2 class="text-lg font-semibold mb-2">Contract Address</h2>
+    <p class="text-gray-700 break-all">0x8eE8F9C7d3B6af17Bc8A68f06bdf0e6BADDe247F</p>
+</div>
 
       {/* Roadmap Section */}
       <section id="roadmap" className="bg-red-500 text-white py-16 px-4">
@@ -143,7 +147,7 @@ function App() {
   <div className="container mx-auto">
     <h2 className="text-3xl font-bold text-gray-800 mb-8 animate__animated animate__fadeInUp animate__delay-1s">Tax</h2>
     <p className="text-lg text-gray-600 leading-relaxed animate__animated animate__fadeInUp animate__delay-2s">
-      The tax for RED PEPE is <strong>4%</strong> on all transactions.
+      The tax for RED PEPE is <strong>6/8%</strong> on all transactions.
     </p>
   </div>
 </section>
